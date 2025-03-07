@@ -1,0 +1,12 @@
+{
+  "branches": ["main"],
+  "plugins": [
+    [
+      "@semantic-release/github",
+      {
+        "assets": ["vereinsordnung.pdf"]
+      }
+    ]
+  ]
+}
+
