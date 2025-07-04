@@ -5,10 +5,10 @@
   title: "Vereinsordnung des KickerClub München e.V.",
   abbreviation: "KCM",
   resolution: "Vorstandssitzung",
-  in-effect: "08.11.2024",
+  in-effect: "04.07.2025",
   draft: false,
   // Template
-  logo: image("kcm.png", alt: "KickerClub München e. V."),
+  logo: image("kcm.png", alt: "KickerClub München e.V."),
 )
 
 /// Usage
@@ -39,22 +39,35 @@ die Gebühren für Externe. Sie ist Bestandteil der Beitrittserklärung.
 Mitgliedsbeiträge
 
 (a)
+Der Mitgliedsbeitrag ist ein Jahresbeitrag, kann jedoch auch monatlich entrichtet
+werden.
+
+(b)
 Über dem Minimalbeitrag von 9€ pro Person und Monat ist jedem Mitglied ist die
 Wahl seines Beitrags darüber hinaus freigestellt. Um die finanzielle
 Unabhängigkeit des Vereins zu gewährleisten, wird ein Beitrag von 15€ pro Monat
 empfohlen. Der genaue Mitgliedsbeitrag ist im Beitrittsformular individuell
 festgelegt. 
 
-(b)
+(c)
 Änderungen an persönlichen Daten (Name, Adresse, Bankverbindung) haben
 Mitglieder unverzüglich mitzuteilen.
 
-(c)
-Der Mitgliedsbeitrag soll per SEPA-Lastschriftmandat eingezogen werden. Dem
-Mitglied bleibt überlassen, ob die Beiträge monatlich, quartalsweise oder
-jährlich eingezogen werden.
-
 (d)
+Der Mitgliedsbeitrag soll per SEPA-Lastschriftmandat eingezogen werden. Dem
+Mitglied bleibt überlassen, ob die Beiträge monatlich oder jährlich
+eingezogen werden.
+
+(e)
+Erfolgt der Beitritt vor dem 15. eines Monats, so ist der Beitrag für diesen
+Monat voll zu entrichten. Ab dem 15. des Monats sind für den laufenden Monat
+keine Zahlungen zu leisten.
+
+(f)
+Bei unterjährigem Eintritt und jährlicher Zahlung errechnet sich der Beitrag
+anteilig monatsweise.
+
+(g)
 Mitglieder, die nicht am SEPA-Lastschriftverfahren teilnehmen, haben eine
 zusätzliche Verwaltungsgebühr von 3€ pro Überweisung zu entrichten. Sie
 überweisen die Beträge spätestens bis zum fünften Werktag des jeweiligen
@@ -85,7 +98,6 @@ Trainingsgebühr gemäß Aushang zu entrichten.
 
 
 § 2 Datenschutz
-
 (1)
 Zur Erfüllung der satzungsgemäßen Aufgaben des Vereines und der
 Verpflichtungen, die sich aus der Mitgliedschaft im Bayerischen
@@ -176,20 +188,19 @@ der Vorstandsaufgaben:
 
 #table(
   columns: 2,
-  [Aufgabe/Bereich], [Verantwortliche:r],
-
+  [*Aufgabe/Bereich*], [*Verantwortliche:r*],
   [Finanzen, Buchhaltung], [Christian Ziegner],
   [Außenkommunikation und Social Media], [Michael Hartmann],
   [Events], [Denise Dilara Kuyumcu],
-  [Gerätewart, Materialvorrat], [Sandra Hirmer],
+  [Gerätewart, Materialvorrat], [Christian Ziegner],
   [Mitgliederverwaltung], [Michael Hartmann],
-  [Vereinsheimverwaltung], [Sandra Hirmer],
-  [Reinigung], [Sandra Hirmer],
+  [Vereinsheimverwaltung], [Denise Dilara Kuyumcu],
+  [Reinigung], [Michael Hartmann],
   [Vereinsrecht], [Michael Hartmann],
   [Vereinsfinanzierung], [Denise Dilara Kuyumcu],
   [Koordination der Vorstandsarbeit], [Denise Dilara Kuyumcu],
   [IT], [Michael Hartmann],
   [Mannschaften und Ligabetrieb], [Christian Ziegner],
   [Getränkewart], [Christian Ziegner],
-  [Training], [Sandra Hirmer],
+  [Training], [Denise Dilara Kuyumcu],
 )
