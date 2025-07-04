@@ -98,6 +98,7 @@ Trainingsgebühr gemäß Aushang zu entrichten.
 
 
 § 2 Datenschutz
+
 (1)
 Zur Erfüllung der satzungsgemäßen Aufgaben des Vereines und der
 Verpflichtungen, die sich aus der Mitgliedschaft im Bayerischen
