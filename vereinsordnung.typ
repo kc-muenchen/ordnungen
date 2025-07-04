@@ -28,6 +28,12 @@
 
 #outline()
 
+// set formatting for sub-list
+#set enum(
+  numbering: "a)",
+  indent: 1em,
+  )
+
 § 1 Beiträge und Gebühren
 
 (1)
@@ -38,66 +44,32 @@ die Gebühren für Externe. Sie ist Bestandteil der Beitrittserklärung.
 (2)
 Mitgliedsbeiträge
 
-(a)
-Der Mitgliedsbeitrag ist ein Jahresbeitrag, kann jedoch auch monatlich entrichtet
-werden.
++ Der Mitgliedsbeitrag ist ein Jahresbeitrag, kann jedoch auch monatlich entrichtet werden.
++ Über dem Minimalbeitrag von 9€ pro Person und Monat ist jedem Mitglied ist die Wahl seines Beitrags darüber hinaus freigestellt. Um die finanzielle Unabhängigkeit des Vereins zu gewährleisten, wird ein Beitrag von 15€ pro Monat empfohlen. Der genaue Mitgliedsbeitrag ist im Beitrittsformular individuell festgelegt. 
++ Änderungen an persönlichen Daten (Name, Adresse, Bankverbindung) haben Mitglieder unverzüglich mitzuteilen.
++ Der Mitgliedsbeitrag soll per SEPA-Lastschriftmandat eingezogen werden. Dem Mitglied bleibt überlassen, ob die Beiträge monatlich oder jährlich eingezogen werden.
++ Erfolgt der Beitritt vor dem 15. eines Monats, so ist der Beitrag für diesen Monat voll zu entrichten. Ab dem 15. des Monats sind für den laufenden Monat keine Zahlungen zu leisten.
++ Bei unterjährigem Eintritt und jährlicher Zahlung errechnet sich der Beitrag anteilig monatsweise.
++ Mitglieder, die nicht am SEPA-Lastschriftverfahren teilnehmen, haben eine zusätzliche Verwaltungsgebühr von 3€ pro Überweisung zu entrichten. Sie überweisen die Beträge spätestens bis zum fünften Werktag des jeweiligen Beitragszeitraums auf folgendes Konto:
 
-(b)
-Über dem Minimalbeitrag von 9€ pro Person und Monat ist jedem Mitglied ist die
-Wahl seines Beitrags darüber hinaus freigestellt. Um die finanzielle
-Unabhängigkeit des Vereins zu gewährleisten, wird ein Beitrag von 15€ pro Monat
-empfohlen. Der genaue Mitgliedsbeitrag ist im Beitrittsformular individuell
-festgelegt. 
+    KickerClub München e.V.
 
-(c)
-Änderungen an persönlichen Daten (Name, Adresse, Bankverbindung) haben
-Mitglieder unverzüglich mitzuteilen.
+    IBAN: DE64430609671320346400
 
-(d)
-Der Mitgliedsbeitrag soll per SEPA-Lastschriftmandat eingezogen werden. Dem
-Mitglied bleibt überlassen, ob die Beiträge monatlich oder jährlich
-eingezogen werden.
+    BIC: GENODEM1GLS
 
-(e)
-Erfolgt der Beitritt vor dem 15. eines Monats, so ist der Beitrag für diesen
-Monat voll zu entrichten. Ab dem 15. des Monats sind für den laufenden Monat
-keine Zahlungen zu leisten.
-
-(f)
-Bei unterjährigem Eintritt und jährlicher Zahlung errechnet sich der Beitrag
-anteilig monatsweise.
-
-(g)
-Mitglieder, die nicht am SEPA-Lastschriftverfahren teilnehmen, haben eine
-zusätzliche Verwaltungsgebühr von 3€ pro Überweisung zu entrichten. Sie
-überweisen die Beträge spätestens bis zum fünften Werktag des jeweiligen
-Beitragszeitraums auf folgendes Konto:
-
-KickerClub München e.V.
-
-IBAN: DE64430609671320346400
-
-BIC: GENODEM1GLS
-
-Verwendungszweck: “Mitgliedsbeitrag, Zeitraum, Nachname, Vorname”
+    Verwendungszweck: “Mitgliedsbeitrag, Zeitraum, Nachname, Vorname”
 
 (3)
 Gebühren
 
-(a)
-Die Teilnahmegebühr für öffentliche Turniere ist dem tagesaktuellen Aushang zu
-entnehmen.
-
-(b)
-Die Teilnahmegebühr für freie Spielabende ist dem tagesaktuellen Aushang zu
-entnehmen.
-
-(c)
-Trainings sind für Nichtmitglieder fünf mal gratis. Danach ist eine
-Trainingsgebühr gemäß Aushang zu entrichten.
++ Die Teilnahmegebühr für öffentliche Turniere ist dem tagesaktuellen Aushang zu entnehmen.
++ Die Teilnahmegebühr für freie Spielabende ist dem tagesaktuellen Aushang zu entnehmen.
++ Trainings sind für Nichtmitglieder fünf mal gratis. Danach ist eine Trainingsgebühr gemäß Aushang zu entrichten.
 
 
 § 2 Datenschutz
+
 (1)
 Zur Erfüllung der satzungsgemäßen Aufgaben des Vereines und der
 Verpflichtungen, die sich aus der Mitgliedschaft im Bayerischen
