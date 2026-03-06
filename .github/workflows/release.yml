@@ -55,3 +55,20 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: npx semantic-release
 
+    - name: Get release version
+      id: get_version
+      run: |
+        VERSION=$(git describe --tags --abbrev=0)
+        echo "version=$VERSION" >> $GITHUB_OUTPUT
+        echo "Released version: $VERSION"
+
+    - name: Rename PDF with version
+      run: |
+        mv vereinsordnung.pdf vereinsordnung-${{ steps.get_version.outputs.version }}.pdf
+
+    - name: Upload PDF to Nextcloud
+      run: |
+        curl -X PUT -u "${{ secrets.NEXTCLOUD_USERNAME }}:${{ secrets.NEXTCLOUD_PASSWORD }}" \
+          "${{ secrets.NEXTCLOUD_URL }}/remote.php/dav/files/${{ secrets.NEXTCLOUD_USERNAME }}/Ordnungen/vereinsordnung-${{ steps.get_version.outputs.version }}.pdf" \
+          --data-binary @"vereinsordnung-${{ steps.get_version.outputs.version }}.pdf" \
+          -H "Content-Type: application/pdf"
